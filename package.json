@@ -2,11 +2,15 @@
   "name": "@casko/is-null-or",
   "version": "1.0.0",
   "type": "module",
-  "description": "Functions that tell if thing is null or empty and  is null or whitespace.",
+  "description": "Functions that can tell if thing is null, empty or whitespace.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallojoe/is-null-or.git"
   },
   "author": "casper korsgaard",
   "license": "MIT",
